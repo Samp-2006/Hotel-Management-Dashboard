@@ -21,9 +21,8 @@ The dataset used contains hotel bookings, customer types, revenue data, and hote
 
 🎯 Use Case:
 Ideal for hotel managers, operations teams, and marketing professionals looking to:
-
 Identify high-performing hotels
-
 Analyze booking behavior by source
-
 Optimize room pricing and availability
+
+![image alt](IMG-20250704-WA0002.jpg)
